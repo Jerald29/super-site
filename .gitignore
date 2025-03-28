@@ -38,3 +38,10 @@ TODO
 test.html
 ad.js
 /.cache/
+
+# AdminLTE samples
+dist/pages/
+
+# config
+config/db.php
+config/session.php
